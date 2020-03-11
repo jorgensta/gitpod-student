@@ -1,25 +1,4 @@
 {
     "configurations": [
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - UpOrDownCounter",
-            "request": "launch",
-            "mainClass": "stateandbehavior.UpOrDownCounter",
-            "projectName": "ovinger"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - StopWatch",
-            "request": "launch",
-            "mainClass": "stateandbehavior.StopWatch",
-            "projectName": "ovinger"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Digit",
-            "request": "launch",
-            "mainClass": "stateandbehavior.Digit",
-            "projectName": "ovinger"
-        }
     ]
 }
